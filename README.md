@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A Woman is Weather-cocke. A New Comedy, As it was acted before the King in WHITE-HALL. And diuers ti
+
 1. Dramatis personae.
 
 1. To any Woman that hath beene no Weather Cocke.
@@ -52,49 +52,17 @@ A Woman is Weather-cocke. A New Comedy, As it was acted before the King in WHITE
 
       * scen. prima.
 
-      * Scen prima.
-
-      * scen. Prima.
-
-      * Scen. prima.
-
     _ Actus secundus.
 
-      * scen. prima.
-
       * Scen prima.
-
-      * scen. Prima.
-
-      * Scen. prima.
 
     _ Actus 3
 
-      * scen. prima.
-
-      * Scen prima.
-
       * scen. Prima.
-
-      * Scen. prima.
 
     _ Actus Quartus.
 
-      * scen. prima.
-
-      * Scen prima.
-
-      * scen. Prima.
-
-      * Scen. prima.
-
     _ Actus Quintus.
-
-      * scen. prima.
-
-      * Scen prima.
-
-      * scen. Prima.
 
       * Scen. prima.
 
@@ -132,53 +100,48 @@ There are 19 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__label__|5||
-|14.|__langUsage__|1||
-|15.|__language__|1| @__ident__ (1) : eng (1)|
-|16.|__listPrefixDef__|1||
-|17.|__note__|7||
-|18.|__notesStmt__|2||
-|19.|__p__|11||
-|20.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|21.|__profileDesc__|1||
-|22.|__projectDesc__|1||
-|23.|__pubPlace__|2||
-|24.|__publicationStmt__|2||
-|25.|__publisher__|2||
-|26.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|27.|__revisionDesc__|1||
-|28.|__seriesStmt__|1||
-|29.|__sourceDesc__|1||
-|30.|__title__|3||
-|31.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__label__|5||
+|12.|__langUsage__|1||
+|13.|__language__|1| @__ident__ (1) : eng (1)|
+|14.|__listPrefixDef__|1||
+|15.|__note__|7||
+|16.|__notesStmt__|2||
+|17.|__p__|11||
+|18.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|19.|__projectDesc__|1||
+|20.|__pubPlace__|2||
+|21.|__publicationStmt__|2||
+|22.|__publisher__|2||
+|23.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|24.|__seriesStmt__|1||
+|25.|__sourceDesc__|1||
+|26.|__title__|3||
+|27.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|2||
+|1.|__body__|1||
 |2.|__closer__|2||
 |3.|__desc__|19||
 |4.|__div__|16| @__type__ (16) : title_page (1), dramatis_personae (1), dedication (1), to_the_reader (1), encomium (1), play (1), act (5), scene (4), song (1)  •  @__n__ (9) : 1 (5), 2 (1), 3 (1), 4 (1), 5 (1)|
 |5.|__floatingText__|1| @__xml:lang__ (1) : eng (0)|
-|6.|__front__|1||
-|7.|__g__|68| @__ref__ (68) : char:EOLhyphen (67), char:punc (1)|
-|8.|__gap__|19| @__reason__ (19) : illegible: faint (5), illegible: blotted (12), illegible: indecipherable (1), illegible: missing (1)  •  @__extent__ (19) : 1 letter (16), 1 span (2), 1 word (1)|
-|9.|__head__|15||
-|10.|__hi__|232||
-|11.|__item__|17||
-|12.|__l__|1234||
-|13.|__list__|1||
-|14.|__p__|500||
-|15.|__pb__|70| @__facs__ (70) : tcp:2190:1 (2), tcp:2190:2 (2), tcp:2190:3 (2), tcp:2190:4 (2), tcp:2190:5 (2), tcp:2190:6 (2), tcp:2190:7 (2), tcp:2190:8 (2), tcp:2190:9 (2), tcp:2190:10 (2), tcp:2190:11 (2), tcp:2190:12 (2), tcp:2190:13 (2), tcp:2190:14 (2), tcp:2190:15 (2), tcp:2190:16 (2), tcp:2190:17 (2), tcp:2190:18 (2), tcp:2190:19 (2), tcp:2190:20 (2), tcp:2190:21 (2), tcp:2190:22 (2), tcp:2190:23 (2), tcp:2190:24 (2), tcp:2190:25 (2), tcp:2190:26 (2), tcp:2190:27 (2), tcp:2190:28 (2), tcp:2190:29 (2), tcp:2190:30 (2), tcp:2190:31 (2), tcp:2190:32 (2), tcp:2190:33 (2), tcp:2190:34 (2), tcp:2190:35 (2)|
-|16.|__q__|2||
-|17.|__signed__|3||
-|18.|__sp__|712||
-|19.|__speaker__|712||
-|20.|__stage__|113||
-|21.|__trailer__|1||
+|6.|__g__|68| @__ref__ (68) : char:EOLhyphen (67), char:punc (1)|
+|7.|__gap__|19| @__reason__ (19) : illegible: faint (5), illegible: blotted (12), illegible: indecipherable (1), illegible: missing (1)  •  @__extent__ (19) : 1 letter (16), 1 span (2), 1 word (1)|
+|8.|__head__|15||
+|9.|__hi__|232||
+|10.|__item__|17||
+|11.|__l__|1234||
+|12.|__list__|1||
+|13.|__p__|500||
+|14.|__pb__|70| @__facs__ (70) : tcp:2190:1 (2), tcp:2190:2 (2), tcp:2190:3 (2), tcp:2190:4 (2), tcp:2190:5 (2), tcp:2190:6 (2), tcp:2190:7 (2), tcp:2190:8 (2), tcp:2190:9 (2), tcp:2190:10 (2), tcp:2190:11 (2), tcp:2190:12 (2), tcp:2190:13 (2), tcp:2190:14 (2), tcp:2190:15 (2), tcp:2190:16 (2), tcp:2190:17 (2), tcp:2190:18 (2), tcp:2190:19 (2), tcp:2190:20 (2), tcp:2190:21 (2), tcp:2190:22 (2), tcp:2190:23 (2), tcp:2190:24 (2), tcp:2190:25 (2), tcp:2190:26 (2), tcp:2190:27 (2), tcp:2190:28 (2), tcp:2190:29 (2), tcp:2190:30 (2), tcp:2190:31 (2), tcp:2190:32 (2), tcp:2190:33 (2), tcp:2190:34 (2), tcp:2190:35 (2)|
+|15.|__q__|2||
+|16.|__signed__|3||
+|17.|__sp__|712||
+|18.|__speaker__|712||
+|19.|__stage__|113||
+|20.|__trailer__|1||
